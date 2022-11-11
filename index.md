@@ -7,7 +7,7 @@
 
 Modelo de predicción de fallas de componentes de máquinas basado en aprendizaje profundo (Deep Learning). [Seguir leyendo en Medium](https://medium.com/@caldep/mantenimiento-predictivo-de-m%C3%A1quinas-en-python-con-dataprep-y-anai-cf7ca6fddb6d) o [Ver código en GitHub](https://github.com/caldep/proyecto-portafolio/blob/main/notebooks/mantenimiento_predictivo.ipynb)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/@caldep/mantenimiento-predictivo-de-m%C3%A1quinas-en-python-con-dataprep-y-anai-cf7ca6fddb6d)
 
 ---
 
