@@ -1,15 +1,16 @@
 title: Carlos Alberto Lizcano Depablos # your name (or website title) here
 logo: "/images/20221111-caldep.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Científico de datos, Programador, Ciudad, País
-  <img src="/images/flags/venezuelaCuadro.jpg" alt="Venezuela">
+  Científico de datos, Desarrollador.
+  <img src="/images/flags/venezuelaCuadro.jpg" alt="Venezuela" style="width: 30px;">
+  <img src="/images/flags/colombiaCuadro.jpg" alt="Colombia" style="width: 30px;">
   <br><br>
-  Mi objetivo es ___________
+  Mi objetivo es contibuir en solución de problemas a través de la informática.
   <br><br>
-  Tengo experiencia en ___________
+  Tengo experiencia en gestión de proyectos informáticos, desarrollo y mantenimiento de software. 
   <br><br>
   <a href="https://www.linkedin.com/in/carlos-alberto-lizcano-depablos/">Entra a mi perfil de LinkedIn</a> 
   <br><br>
-  <a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
+  <a href="/pdf/HV-CarlosLizcano.pdf">Mira mi Curriculum Vitae (CV) </a> 
   
 theme: jekyll-theme-minimal
