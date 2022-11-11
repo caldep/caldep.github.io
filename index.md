@@ -3,9 +3,9 @@
 ---
 
 ## Mi primer proyecto
-[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
+[Mantenimiento predictivo de máquinas en Python con Dataprep y Anai](https://medium.com/@caldep/mantenimiento-predictivo-de-m%C3%A1quinas-en-python-con-dataprep-y-anai-cf7ca6fddb6d)
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
+Modelo de predicción de fallas de componentes de máquinas basado en aprendizaje profundo (Deep Learning). [Seguir leyendo en Medium](https://medium.com/@caldep/mantenimiento-predictivo-de-m%C3%A1quinas-en-python-con-dataprep-y-anai-cf7ca6fddb6d) o [Ver código en GitHub](https://github.com/caldep/proyecto-portafolio/blob/main/notebooks/mantenimiento_predictivo.ipynb)
 
 [<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
@@ -13,20 +13,21 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 ### Mis Skills son
 
+- Java
+- C++
 - Python
-- R
-- Excel
-- ...
+- PHP
+- SQL
 
 ---
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
-- [GitHub](https://github.com/tu-github/)
-- [Twitter](https://twitter.com/tu-twitter)
-- [Medium](https://medium.com/@tu-medium)
-- [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
+- [LinkedIn](https://www.linkedin.com/in/carlos-alberto-lizcano-depablos/)
+- Correo electrónico a <caldep@gmail.com>
+- [GitHub](https://github.com/caldep)
+- [Twitter](https://twitter.com/@caldep2)
+- [Medium](https://medium.com/@caldep)
+- [Mi CV](/pdf/HV-CarlosLizcano.pdf)
 
 ---
