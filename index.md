@@ -5,7 +5,7 @@
 ## Mi primer proyecto
 [Mantenimiento predictivo de máquinas en Python con Dataprep y Anai](https://medium.com/@caldep/mantenimiento-predictivo-de-m%C3%A1quinas-en-python-con-dataprep-y-anai-cf7ca6fddb6d)
 
-Modelo de predicción de fallas de componentes de máquinas basado en aprendizaje profundo (Deep Learning). [Seguir leyendo en Medium](https://medium.com/@caldep/mantenimiento-predictivo-de-m%C3%A1quinas-en-python-con-dataprep-y-anai-cf7ca6fddb6d) o [Ver código en GitHub](https://github.com/caldep/proyecto-portafolio/blob/main/notebooks/mantenimiento_predictivo.ipynb)
+Modelo de predicción de fallas de componentes de máquinas basado en aprendizaje profundo (Deep Learning). [Seguir leyendo en Medium](https://medium.com/@caldep/mantenimiento-predictivo-de-m%C3%A1quinas-en-python-con-dataprep-y-anai-cf7ca6fddb6d) o [Ver código en GitHub](https://github.com/caldep/proyecto-portafolio/blob/main/notebooks/mantenimiento_predictivo_EDA.ipynb)
 
 [<img src="images/mantenedor.jpeg?raw=true"/>](https://medium.com/@caldep/mantenimiento-predictivo-de-m%C3%A1quinas-en-python-con-dataprep-y-anai-cf7ca6fddb6d)
 
